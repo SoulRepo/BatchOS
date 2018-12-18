@@ -1,9 +1,9 @@
 # BatchOS
-A semi-interactive game using Command Prompt.
-Created by SoulRepo / Souliousery.
+A cool game using Command Prompt.
+Created by Souliousery.
 # What is it?
-BatchOS is as the description says.
-Currently in development, incomplete builds are developed, but not released until a suitable amount of completion.
+BatchOS is as the description says. Totally nothing else. Don't doubt the developer.
+Currently in development, here's some code for bad mods that can't be my normal game.
 It is similar to one of those "Choose your own adventure" books.
 # How to use?
-Currently, BatchOS is only avaliable on Windows. Just launch the batch file.
+Currently, BatchOS is ready for MacOSX and Windows systems. The Mac build is not reccomended, it's just a extension rename.
